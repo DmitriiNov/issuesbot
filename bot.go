@@ -1,0 +1,5 @@
+package issuesbot
+
+func Start() {
+
+}
